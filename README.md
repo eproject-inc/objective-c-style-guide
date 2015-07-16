@@ -710,12 +710,12 @@ Smiley faces are a very prominent style feature of the raywenderlich.com site!  
 
 **Preferred:**
 ```objc
-:]
+:)
 ```
 
 **Not Preferred:**
 ```objc
-:)
+:] or =) or =P
 ```  
 
 
