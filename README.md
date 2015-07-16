@@ -1,6 +1,6 @@
-# The official raywenderlich.com Objective-C style guide.
+# The official Kanjoya Objective-C style guide.
 
-This style guide outlines the coding conventions for raywenderlich.com.
+This style guide outlines the coding conventions for iOS projects at Kanjoya.  It is a fork of the Raywenderlich objective c style guide.
 
 ## Introduction
 
